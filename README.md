@@ -1,1 +1,1 @@
-# QuickPix
+# quickPix
